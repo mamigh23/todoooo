@@ -16,7 +16,7 @@ function App() {
           <img src="https://upload.wikimedia.org/wikipedia/tr/8/86/Fenerbah%C3%A7e_SK.png" className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1> + FENERBAHÇE 1907 +</h1>
+      <h1> + FENERBAHÇE 1907 + 1907</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1907)}>
           DOĞDUN {count} DE
